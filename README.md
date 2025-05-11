@@ -26,7 +26,7 @@ Developed a comprehensive wellness application leveraging multiple specialized A
 
 Technologies used: Python (FastAPI), React, SQLite, and multiple AI agent architectures.
 
-![Pulsum Wellness Application Main Screen](mainscreenview.png)
+![Pulsum AI Agent System - Main interface showing the multi-agent wellness application with personalized recommendations and health data analysis](mainscreenview.png)
 
 ### BERT Fine-Tuning for Sentiment Analysis
 Adapted and fine-tuned BERT models for specialized sentiment analysis tasks, exploring the capabilities of transformer architectures for NLP applications.
